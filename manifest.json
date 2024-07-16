@@ -1,14 +1,13 @@
 {
   "name": "mood-tracker",
-  "manifest_version": 2,
-  "version": "1.0",
+  "version": 1.0,
   "description": "A mini journal tucked into your browser.",
   "permissions": ["declarativeContent", "storage"],
   "browser_action":{
     "default_icon": {
     },
-    "default_popup": "popup.html",
-    "default_title": "coffeelings"
+    "default_popup": "index.html",
+    "default_title": "mood-tracker"
   },
   "chrome_url_overrides" : {
     "newtab": "index.html"
