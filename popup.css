@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Yesteryear&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39&display=swap');
 
-:root {
+/* :root {
   --caramel: rgba(210, 149, 115, 1);
   --cinnamon: rgba(190, 114, 097, 1);
   --light: rgba(159, 087, 084, 1);
@@ -14,6 +14,20 @@
   --lightervanilla: rgba(233, 190, 155, 0.15);
   --darkvanilla: rgba(233, 190, 155, 0.6);
   --vanilla: rgba(233, 190, 155, 1);
+} */
+ 
+:root {
+  --caramel: rgba(250, 200, 250, 1);          /* Light Pink */
+  --cinnamon: rgba(240, 190, 230, 1);         /* Light Purple */
+  --light: rgba(210, 160, 240, 1);            /* Light Lavender */
+  --city: rgba(180, 130, 250, 1);             /* Light Violet */
+  --dark: rgba(140, 110, 220, 1);             /* Dark Purple */
+  --italian: rgba(100, 70, 190, 1);           /* Dark Blue */
+  --alphaitalian: rgba(100, 70, 190, 0.3);    /* Dark Blue with Alpha */
+  --lightvanilla: rgba(200, 240, 250, 0.35);  /* Light Aqua with Alpha */
+  --lightervanilla: rgba(200, 240, 250, 0.15);/* Lighter Aqua with Alpha */
+  --darkvanilla: rgba(200, 240, 250, 0.6);    /* Darker Aqua with Alpha */
+  --vanilla: rgba(200, 240, 250, 1);          /* Aqua */
 }
 
 html {
