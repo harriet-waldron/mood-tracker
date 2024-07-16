@@ -1,6 +1,6 @@
 {
-  "name": "coffeelings",
-  "version": "1.300",
+  "name": "mood-tracker",
+  "version": "1.0",
   "description": "A mini journal tucked into your browser.",
   "permissions": ["declarativeContent", "storage"],
   "background": {
@@ -14,10 +14,9 @@
     "default_title": "coffeelings"
   },
   "icons": {
-    "16": "images/get_started16.png",
-    "32": "images/get_started32.png",
-    "48": "images/get_started48.png",
-    "128": "images/get_started128.png"
+     "16": "images/world-1.png"
   },
-  "manifest_version": 2
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  }
 }
