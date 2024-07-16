@@ -55,7 +55,7 @@ const Popup: React.FC = () => {
         </div>
 
         <div id="coffee_options">
-          <img className="coffee" id="ok" src="art/coffee_ok.png" alt="coffee" />
+          <img className="coffee" id="ok" src="art/info.png" alt="coffee" />
         </div>
         <div id="mood_options"></div>
 
