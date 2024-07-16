@@ -14,9 +14,6 @@
     "default_popup": "popup.html",
     "default_title": "coffeelings"
   },
-  "icons": {
-     "16": "images/world-1.png"
-  },
   "chrome_url_overrides" : {
     "newtab": "index.html"
   }
