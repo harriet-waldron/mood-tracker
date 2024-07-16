@@ -1,6 +1,6 @@
 {
   "name": "mood-tracker",
-  "manifest_version": "1.0",
+  "manifest_version": "2",
   "version": "1.0",
   "description": "A mini journal tucked into your browser.",
   "permissions": ["declarativeContent", "storage"],
