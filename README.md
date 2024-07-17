@@ -1,10 +1,1 @@
-# coffeelings
-a mini journal &amp; mood tracker chrome extension
-
-here are all of my custom scripts.
-
-**Tools:**
-* html/css
-* js & jquery
-
-download it now on the [**chrome web store**](https://chrome.google.com/webstore/detail/coffeelings/hcbddpppkcnfjifbcfnhmelpemdoepkk)!
+Based on coffeelings by cnmon https://github.com/cnnmon/coffeelings/tree/master
